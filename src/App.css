@@ -36,3 +36,90 @@
     transform: rotate(360deg);
   }
 }
+
+.image{
+ width: 100px;
+ margin-left: 68px;
+}
+.icon1{
+  font-size: 30px;
+ 
+}
+.bar{
+  background-color: blue;
+}
+li{
+  text-align: center;
+}
+.footer{
+  display: flex;
+  justify-content: space-around;
+  font-size: 25px;
+}
+.bar{
+  background-color: rgb(14, 14, 65);
+ 
+}
+h1{
+  color: rgb(28, 28, 86);
+  margin-top: 20px;
+  text-decoration: underline;
+}
+.row{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   margin-top: 60px;
+}
+.first{
+  background-color: rgb(210, 49, 49);
+  color: whitesmoke;
+}
+.second{
+  background-color: purple;
+  color: whitesmoke;
+}
+.third{
+  background-color: green;
+  color: whitesmoke;
+}
+.icon5{
+  font-size: 70px;
+  display: flex;
+  align-items: flex-start;
+ 
+}
+.icon6{
+  font-size: 50px;
+  display: flex;
+  align-items: flex-start;
+ 
+}
+.num1{
+  display: flex;
+  justify-content: right;
+  margin-top: -60px;
+  font-size: 40px;
+ 
+}
+.text{
+  display: flex;
+  justify-content: right;
+}
+.card-body{
+  height: 120px;
+  
+
+}
+.icons{
+  font-size: 50px;
+  color: rgb(39, 39, 106);
+}
+table td{
+  margin-top: 150px;
+  border: none;
+  margin-left: 50px;
+}
+tr{
+  border: none;
+}
